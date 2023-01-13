@@ -1,4 +1,4 @@
-#-*- coding: utf-8 -*-
+# -*- coding: utf-8 -*-
 '''
 多进程Process(multiprocessing) 
 优点：可以利用多核cpu并行运算
